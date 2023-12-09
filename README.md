@@ -1,6 +1,7 @@
 # WEN Token Contracts
 
 WEN is the native cryptocurrency of Wencash Blockchain for paying gas fees (as ETH exists for Ethereum).
+
 But WEN is also available as a token contract in the following chains:
 
 ## Ethereum
